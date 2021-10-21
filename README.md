@@ -1,5 +1,5 @@
 # flask-base
 
-Base para aplcação Flask
+Base para aplicação Flask
 
-parte do cadastro de usuarios
+Parte do cadastro de usuarios
